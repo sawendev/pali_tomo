@@ -11,6 +11,7 @@ config_version=4
 [application]
 
 config/name="pali_tomo"
+config/description="Game where you can design a house in VR in a manner similar to The Sims series."
 config/icon="res://_keyfiles/icon.png"
 
 [physics]
